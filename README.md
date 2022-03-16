@@ -13,15 +13,17 @@ In my spare time and after work, I am currently developing on Wynd. A DAO that e
 
 ### Github Stats
 <p align="center">
-<a href="https://github.com/msteiner96">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=msteiner96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=msteiner96&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/msteiner96">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=msteiner96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=msteiner96&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 ### Previous Achievements
 <p align="center">
-<img height="180em" src="http://i.epvpimg.com/F6gNeab.png" />
-<img height="120em" src="http://i.epvpimg.com/enh7fab.png" />
+  <a href="https://wyndex.io/">
+    <img height="180em" src="http://i.epvpimg.com/F6gNeab.png" />
+    <img height="120em" src="http://i.epvpimg.com/enh7fab.png" />
+  </a>
 </p>
 
