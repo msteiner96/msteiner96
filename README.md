@@ -7,7 +7,7 @@ For about a year now I've been working in the blockchain field and I'm always ha
 In my spare time and after work, I am currently developing on Wynd. A DAO that evolved from an idea we won HackAtom VI with.
 
 <p align="center">
-<a href="https://www.linkedin.com/in/milan-steiner-0072b1/"><img src="https://img.shields.io/badge/-Milan%20Steiner%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/milan-steiner-7951a7134/"><img src="https://img.shields.io/badge/-Milan%20Steiner%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://discord.gg/user/Milan_#0610"><img src="https://img.shields.io/badge/-Milan_%230610-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 </p>
 
