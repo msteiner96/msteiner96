@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Milan
 
-I am a trained software developer from Germany. My main job is working for Confio on many projects in the Cosmos universe.
+I am a software developer from Germany. My main job is working for Confio on many projects in the Cosmos universe.
 
 For about a year now I've been working in the blockchain field and I'm always happy to get new experiences. I am happy to help with promising open source projects.
 
