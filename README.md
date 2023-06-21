@@ -15,7 +15,7 @@ I believe in leveraging the power of decentralized technologies to build innovat
 🧰 Skills
 
 - Web Development (HTML, CSS, JavaScript, TypeScript, PHP) 💻
-- Frontend Frameworks (React, Vue.js, React.js) ⚛️
+- Frontend Frameworks (React, Vue.js) ⚛️
 - Backend Development (Node.js, Express) 📡
 - Blockchain Technologies (CosmWasm, Soroban) ⛓️
 - RESTful APIs and GraphQL 🌐
