@@ -17,7 +17,7 @@ I believe in leveraging the power of decentralized technologies to build innovat
 - Web Development (HTML, CSS, JavaScript, TypeScript, PHP) 💻
 - Frontend Frameworks (React, Vue.js) ⚛️
 - Backend Development (Node.js, Express) 📡
-- Blockchain Technologies (CosmWasm, Soroban) ⛓️
+- Blockchain Technologies (CosmWasm, Soroban, Solidity) ⛓️
 - RESTful APIs and GraphQL 🌐
 
 📫 Get in Touch
